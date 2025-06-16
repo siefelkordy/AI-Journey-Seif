@@ -1,0 +1,3 @@
+friends=["seif","ramy","malek","mai","emad"]
+friends[1]="fatma"
+print(friends)
